@@ -1,1 +1,15 @@
-I dont survive HTL
+init: ein lokasles Repository erstellen
+config: Konfigurieren
+clone: Klont schon vorhandenen git hub projekte
+add: fügt neue datein zu dem lokalen Repository hinzu
+rm: löscht Datein aus dem Repository
+commit: macht die hinzugefügten Datein bereit zum upload
+push: lädt das lokale Repository auf GitHub
+pull: zieht die online Datein auf das lokale Laufwerk
+status: Zeigt die aktuellen Datein an, und welche noch nicht commited odere geadded wurden
+diff: mach ein neues Branch
+reset: 
+log:
+branch: neues Verzeichniss mit den geklonten Datein, die man ändern kann, ohne im Original was zu beschädigen
+checkout: wieder zum Master Branch wechseln
+merge:
